@@ -202,7 +202,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "pd"
+name = "pd-external-rs"
 version = "0.1.0"
 dependencies = [
  "bindgen 0.50.0 (registry+https://github.com/rust-lang/crates.io-index)",

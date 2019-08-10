@@ -3,6 +3,7 @@ name = "pd-external-rs"
 version = "0.1.0"
 authors = ["Thomas Crowley <crowley@kibu.com.au>"]
 edition = "2018"
+license = "BSD-3-Clause"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
