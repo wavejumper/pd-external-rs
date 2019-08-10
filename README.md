@@ -1,6 +1,4 @@
-![Crates.io](https://img.shields.io/crates/v/pd-external-rs)
-![docs.rs](https://docs.rs/pd-external-rs/badge.svg?version=0.1.0)
-
+[![Crates.io](https://img.shields.io/crates/v/pd-external-rs)](https://crates.io/crates/pd-external-rs)
 
 # pd-external-rs
 
