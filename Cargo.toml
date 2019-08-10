@@ -6,6 +6,7 @@ edition = "2018"
 license = "BSD-3-Clause"
 description = "Rust bindings for pure data externals."
 keywords = ["bindings", "pure-data", "pd"]
+repository = "https://github.com/wavejumper/pd-external-rs"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
